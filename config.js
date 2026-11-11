@@ -3,5 +3,5 @@
 // Alternatively, use a public Discord profile link that opens your DMs.
 // Never put private tokens or passwords here.
 window.CCS_CONFIG = {
-  discordUrl: ""
+  discordUrl: "https://discord.gg/mgAX89kjda"
 };
